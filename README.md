@@ -10,4 +10,4 @@ The following commerical products are not available publicly.  If you're intrest
    boleary (at) olearycrew (dot) com
 
 * [listMe](https://www.listme.chat)
-* [MusicTeacher.io](https://www.musicteacher.io]
+* [MusicTeacher.io](https://www.musicteacher.io)
